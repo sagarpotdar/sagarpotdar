@@ -19,7 +19,7 @@
 - 💬 Ask me about **Data Analysis, Deep Learning**
 
 - 📄 Know about my experiences [Data Analyst & Postgraduated from a prestigious college "NIT", and 2.5 years experience in software development, I have developed a deep understanding of how technology can be leveraged to solve complex business problems. I'm thrilled to contribute my expertise and knowledge to data science domain. I've developed Deep Learning and Machine Learning models to used them in practical applications. I have leveraged my expertise in data analysis tools and programming languages, such as Python, SQL, Advanced Excel, and Power BI to deliver data-driven solutions to problems. I am adept at working with stakeholders to define project requirements, designing and implementing data pipelines, and presenting findings in a clear and compelling manner. Python Libraries - NumPy, pandas, matplotlib, seaborn, sci-kit-learn. AI - Machine Learning, Deep Learning. Visualization - Power BI, Advanced Excel, Tableau.]
-- ⚡ Fun fact **I have good sense of humour, Plays cricket in all heart**
+- ⚡ Fun fact **I have good sense of humour, Plays cricket with all heart**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
