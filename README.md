@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarpotdar&label=Profile%20views&color=0e75b6&style=flat" alt="sagarpotdar" /> </p>
 
 
-- 🔭 I’m currently working on **End-End IPL Analysis**
+- 🔭 I’m currently working on **End-End IPL players Analysis**
 
 - 🌱 I’m currently learning **Power BI, Tableau**
 
