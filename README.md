@@ -6,13 +6,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarpotdar&label=Profile%20views&color=0e75b6&style=flat" alt="sagarpotdar" /> </p>
 
 
-- 🔭 I’m currently working on **End-End IPL players Analysis**
+- 🔭 I’m currently working on **Gen Ai and Agentic Ai Projects**
 
-- 🌱 I’m currently learning **Power BI, Tableau**
+- 🌱 I’m currently learning **Langchain, Langgraph, crew ai**
 
-- 👯 I’m looking to collaborate on **Sports Analytics**
+- 👯 I’m looking to collaborate on **Any Domain**
 
-- 🤝 I’m looking for help with **Data Analyst | Power BI | Deep learning Engineer Position | Computer Vision Engineer**
+- 🤝 I’m looking for help with **Data Analyst | Data Scientist | Gen Ai | LLM Engineer | Deep learning Engineer Position | AI ML Engineer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sagarpotdar](https://github.com/sagarpotdar)
 
