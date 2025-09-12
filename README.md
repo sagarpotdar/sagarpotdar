@@ -1,6 +1,6 @@
 [![MasterHead](https://static.vecteezy.com/system/resources/previews/009/233/529/non_2x/data-analysis-banner-web-icon-set-growth-focus-optimization-security-ranking-document-data-management-global-data-illustration-concept-vector.jpg)]()
 <h1 align="center">Hola Homies👋 I'm Sagar Potdar</h1>
-<h3 align="center">Data Analyst | Data Scientist | Gen Ai | LLM Engineer | Deep learning Engineer Position | AI - ML Engineer</h3>
+<h3 align="center">Data Analyst | Data Scientist | Gen Ai | LLM Engineer | Deep learning Engineer Position | AI ML Engineer</h3>
 <img align="right" alt="Coding" width="250" src="https://media2.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47qqt9w6c3mc5lteefc29rulcrrgnjh9xhma8sjmw8&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarpotdar&label=Profile%20views&color=0e75b6&style=flat" alt="sagarpotdar" /> </p>
